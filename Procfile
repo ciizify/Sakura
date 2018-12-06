@@ -1,1 +1,1 @@
-worker: node sakura.js
+worker: node bot.js
