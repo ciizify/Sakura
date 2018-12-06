@@ -1,10 +1,10 @@
 {
   "name": "sakura",
   "version": "0.0.6",
-  "main": "sakura.js",
+  "main": "bot.js",
   "scripts": {
-    "start": "nodemon sakura.js",
-    "background": "screen -dmS SpaceBoat nodemon sakura.js"
+    "start": "nodemon bot.js",
+    "background": "screen -dmS Sakura nodemon bot.js"
   },
   "author": "Votyn",
   "license": "MIT",
